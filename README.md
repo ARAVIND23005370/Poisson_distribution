@@ -1,3 +1,6 @@
+## NAME: RAKSHITHA .P
+## REGISTER NUMBER:212223220083
+
 # Fitting Poisson  distribution
 # Aim : 
 
