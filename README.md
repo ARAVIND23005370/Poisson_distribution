@@ -1,5 +1,5 @@
-## NAME: RAKSHITHA .P
-## REGISTER NUMBER:212223220083
+## NAME: ARAVIND R
+## REGISTER NUMBER:212223220019
 
 # Fitting Poisson  distribution
 # Aim : 
